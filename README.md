@@ -24,7 +24,8 @@ public class Main {
                 "HTML",
                 "CSS",
                 "Bootstrap",
-                "JavaScript"
+                "Basic JavaScript",
+                "PHP"
         );
         
         List<String> tools = List.of(
