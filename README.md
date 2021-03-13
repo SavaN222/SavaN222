@@ -13,11 +13,12 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-        List<String> mainSkills = List.of(
-          "Java",
-          "Spring Family",
-          "MySQL",
-          "Hibernate"      
+    
+         List<String> mainSkills = List.of(
+                "Java",
+                "Spring Family",
+                "MySQL",
+                "Hibernate"
         );
         
         List<String> otherSkills = List.of(
@@ -34,6 +35,4 @@ public class Main {
         );
     }
 }
-
-
 ```
