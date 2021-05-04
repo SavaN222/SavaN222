@@ -21,11 +21,11 @@ The most interesting branches of programming for me is a Web Development, so I s
 
 **Because of my problem-solving attitude and loving to solve logic problems, I decided to try back-end development, and it was the best decision of my life.**
 
-The first language I learned was PHP in combination with MySQL. To my new knowledge I added previous knowledge of front end technology and make some projects, of which the best is a [![Social Book](https://github.com/SavaN222/SocialBook)].
+The first language I learned was PHP in combination with MySQL. To my new knowledge I added previous knowledge of front end technologies and make some projects, of which the best is a [Social Book](https://github.com/SavaN222/SocialBook).
 
 How my knowledge and passion for programming was growing, I decided to learn a general purpose language and my choice was Java.
 
-**With many online resources, Udemy courses and [![JetBrains academy](https://www.jetbrains.com/academy/)], I have successfully improved my knowledge of:**
+**With many online resources, Udemy courses and [JetBrains academy](https://www.jetbrains.com/academy/), I have successfully improved my knowledge of:**
 
 * **Java(Java SE and Java EE)**
 * **Spring Boot[Spring Core, Spring MVC, Spring Security, Spring Data]**
@@ -34,4 +34,4 @@ How my knowledge and passion for programming was growing, I decided to learn a g
 * **Algorithms and Data Structures**
 * **Design Patterns**
 
-#### 🏆 For now, my best project is [![Learn Together](https://github.com/SavaN222/Learn-Together)]. which I wrote for a programming competition.
+#### 🏆 For now, my best project is [Learn Together](https://github.com/SavaN222/Learn-Together). which I wrote for a programming competition.
