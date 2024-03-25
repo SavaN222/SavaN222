@@ -5,7 +5,7 @@
 
 <div>
   <h4>💻❤️ I am very passionate about programming and inovation which is my main fuel for growth and learning.</h4>
-  <h5>Currently, I'm advacing my skills in this repo <a href="https://github.com/SN-E-Commerce-CMS">cms-microservices</a></h5>
+  <h5>Currently, I'm advancing my skills in this repo <a href="https://github.com/SN-E-Commerce-CMS">cms-microservices</a></h5>
 </div>
 
 
